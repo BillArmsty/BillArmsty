@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome!
+<!---
+BillArmsty/BillArmsty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-<!--
-**BillArmsty/BillArmsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I'm @BillArmsty
+- 👀 I’m interested in DeFi, FinTech & Rust programming...
+- 📫 I'm looking to collaborations and currently learning to be Rustacean...
 
-Here are some ideas to get you started:
+Thank you for visiting my profile. Get acquainted with with my repos.
+<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="devgif" width="700px" height="600px" alignItems="center" display="flex" justifyContent="center" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Github Stats 
+
+[![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillArmsty&count_private=true&show_icons=true&theme=merko)](https://github.com/mairura/github-readme-stats)
+
+ # Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillArmsty&theme=tokyonight) --># BillArmsty
