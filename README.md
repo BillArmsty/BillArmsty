@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 I'm looking to collaborations and currently learning to be Rustacean...
 
 Thank you for visiting my profile. Get acquainted with with my repos.
-<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="devgif" width="700px" height="600px" alignItems="center" display="flex" justifyContent="center" />
-
 
 # Github Stats 
 
@@ -18,4 +16,4 @@ Thank you for visiting my profile. Get acquainted with with my repos.
 
  # Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillArmsty&theme=tokyonight) --># BillArmsty
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillArmsty&theme=tokyonight) -->
