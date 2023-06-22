@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in DeFi, FinTech & Rust programming...
 - 📫 I'm looking to collaborations and currently learning to be Rustacean...
 
-Thank you for visiting my profile. Get acquainted with with my repos.
+Thank you for visiting my profile. Get acquainted with my repos.
 
 # Github Stats 
 
