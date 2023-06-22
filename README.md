@@ -12,7 +12,7 @@ Thank you for visiting my profile. Get acquainted with my repos.
 
 # Github Stats 
 
-[![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillArmsty&count_private=true&show_icons=true&theme=merko)](https://github.com/mairura/github-readme-stats)
+[![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillArmsty&count_private=true&show_icons=true&theme=merko)](https://github.com/BillArmsty/github-readme-stats)
 
  # Top Languages
 
